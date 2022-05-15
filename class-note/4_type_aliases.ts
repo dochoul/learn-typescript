@@ -1,3 +1,6 @@
+//! type보다 interface를 쓰도록~
+//! type은 확장이 되지 않음
+
 type typedPerson = {
   name: string,
   age: number
